@@ -42,3 +42,4 @@ public class Dice {
 				numOfThrows, oddDice, evenDice);
 	}
 }
+// Much better!
